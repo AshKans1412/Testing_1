@@ -2,7 +2,7 @@ Github Branch for Docker Assignment
 
 > Run the Bash file to create a python environment inside docker
 > After the environment is created it runs the python file with input & output csv file name in auto
-> The created data is stored in "BUNKER" section of your docker volume
+> The created data is stored in "BUNKER" section of your docker volumes
 
 --
 

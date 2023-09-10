@@ -1,10 +1,12 @@
+
+
 import itertools
 import threading
 import time
 import pandas as pd
 import sys
 
-def extract_data(source):cd 
+def extract_data(source):
 	return pd.read_csv(source,encoding='windows-1252')
 
 def transform_data(data):

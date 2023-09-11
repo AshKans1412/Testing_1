@@ -1,0 +1,52 @@
+,S#,Politician,Day,Date,Day Type,Time,City,Location,Location Category,Province,Latitude,Longititude,Target Category,Space (Open/Closed),Party,Killed,Injured,Month,Year
+0,1,Liaqat Ali Khan,16,16-Oct-51,Working Day,Evening,Rawalpindi,"Company Bagh (Company Gardens), Rawalpindi",Park/Ground,Punjab,33.6058,73.0437,Target,Open,Alll India Muslim League,1,1,Oct,51
+1,2,Khan abdul Jabbar Khan,9,9-May-58,Working Day,Morning,Lahore," Sadullah Khan's house at 16 Aikman Road, GOR",Residence,Punjab,31.4826352,74.0712721,Target,Open,Chief Minister of West Pakistan,1,0,May,58
+2,3,Hayyat Sherpao,8,8-Feb-85,Working Day,Evening,Peshawar,Campus of University of Peshawar,University,KPK,33.999533,71.42502,Target,Open,PPPP,1,0,Feb,85
+3,4,Najeeb Ahmed,6,6-Apr-90,Working Day,After Noon,Karachi,North Nazimabad,Residence,Sindh,24.9918,66.9911,Target,Closed,Student wing of PPP,1,0,Apr,90
+4,5,Azeem Ahmed Tariq,1,1-May-93,Working Day,Morning,Karachi,near his house,Residence,Sindh,24.9918,66.9911,Target,Closed,MQM,1,0,May,93
+5,6,Hakim Muhammad Said,17,17-Oct-98,Working Day,After Noon,Karachi,Details Missing,Details Missing,Sindh,24.9918,66.9911,Target,Open,Independent,1,0,Oct,98
+6,7,Maulana Azam Tariq,6,6-Oct-03,Working Day,Evening,Islamabad,"As his car drove into the capital, Islamabad",Road,Capital,33.718,73.0718,Target,Open,Millat-i-Islamia,4,0,Oct,03
+7,8,Pervez Musharaf,15,15-Dec-03,Working Day,Evening,Rawalpindi,A powerful bomb went off minutes after his highly-guarded convoy crossed a bridge,Road,Punjab,33.6058,73.0437,Target,Open,All Pakistan Muslim League,0,0,Dec,03
+8,9,Pervez Musharaf,25,25-Dec-03,Working Day,Evening,Rawalpindi,Attack on Musharaf's Rally,Road,Punjab,33.6058,73.0437,Suicide,Open,All Pakistan Muslim League,16,4,Dec,03
+9,10,Shaukat Aziz,30,30-Jul-04,Working Day,Night,Attock,Jaffar village in fateh jang,Park/Ground,Punjab,33.7645,72.3667,Suicide,Open,PMLQ,7,70,Jul,04
+10,11,Zil-e-Huma Usman,20,20-Feb-07,Working Day,After Noon,Gujranwala,she had gone to address a political rally,Park/Ground,Punjab,32.1579617,74.0245261,Target,Closed,Ministor,1,0,Feb,07
+11,12,Aftab Ahmad Khan Sherpao,28,28-Apr-07,Working Day,Evening,Charsadda,Rally Charsadda ,Park/Ground,KPK,34.1509,71.7359,Suicide,Open,ANP,35,60,Apr,07
+12,13,Political Meeting,12,12-Jul-07,Working Day,Evening,North Waziristan,Political Agent Office in Miranshah,Government,FATA,32.9746,70.1456,Suicide,Closed,Local Political Leader,4,3,Jul,07
+13,14,Abdul Razzaq Bugti,27,27-Jul-07,Working Day,After Noon,Quetta, Zarghon Road 200 metres from Chief Minister’s House,Residence,Balochistan,30.2095,67.0182,Target,Closed,Baloch Student Organizaion,1,0,Jul,07
+14,15,Benazir Bhutto,18,18-Oct-07,Working Day,Mid Night,Karachi,PPP Rally,Road,Sindh,24.9918,66.9911,Suicide,Open,PPPP,145,550,Oct,07
+15,16,Ahsan Iqbal,9,9-Nov-07,Holiday,Evening,Peshawar,Political Affairs meeting,Residence,KPK,34.0043,71.5448,Suicide,Closed,PMLN,4,5,Nov,07
+16,17,Benazir Bhutto,27,27-Dec-07,Working Day,Evening,Rawalpindi,Liaquat Bagh Park,Park/Ground,Punjab,33.6058,73.0437,Suicide,Open,PPPP,30,70,Dec,07
+17,18,Miangul Asfandyar Amir Zeb,28,28-Dec-07,Working Day,After Noon,Swat,roadside bomb blast targeting his vehicle,Road,KPK,35.2346717,71.8853547,Target,Open,PMLN,1,0,Dec,07
+18,19,Khursheed Khan,9,9-Feb-08,Working Day,Evening,Charsadda,Nakai in charsadda,Residence,KPK,34.1509,71.7359,Suicide,Closed,ANP,27,51,Feb,08
+19,20,Political Meeting,11,11-Feb-08,Working Day,After Noon,North Waziristan,Aidak village in mirali-near miranshah,Religious,FATA,32.9746,70.1456,Suicide,Open,ANP,10,13,Feb,08
+20,21,Political Meeting,16,16-Feb-08,Working Day,Evening,Kuram Agency,PPP election office in Eidgah market of Parachinar bazar,Government,FATA,35.2227,72.4258,Suicide,Closed,PPPP,47,110,Feb,08
+21,22, Rashid Akbar Nawani,6,6-Oct-08,Working Day,Evening,Bhakkar,Bhakkar Rasheed Noranni MNA house,Residence,Punjab,31.6216,71.065,Suicide,Closed,PMLN,26,100,Oct,08
+22,23,Hussain Ali Yousafi,26,26-Jan-09,Working Day,After Noon,Quetta,UNKNOWN,UNKNOWN,Balochistan,30.2095,67.0182,Target,Open,Hazara Democratic Party (HDP),1,0,Jan,09
+23,24,Political Meeting,17,17-Dec-09,Working Day,Evening,Bannu,Essakhel village house of Local political leader,Residence,KPK,32.9861,70.6042,Suicide,Closed,Local Political Leader,0,0,Dec,09
+24,25,Muhammed Khan Baba Jan,5,5-Apr-10,Working Day,Noon,Lower Dir,ANP rally in Timergara ,Hotel,KPK,34.8453,71.9046,Suicide,Open,ANP,56,120,Apr,10
+25,26,Malik Swab Khan,12,12-Jul-10,Working Day,Evening,Kohat,Outside the guest house of a pro-Government tribal elder-Malik Swab Khan-in Kohat District,Government,KPK,33.5833,71.4333,Suicide,Open,Pro-Government tribal elder,0,0,Jul,10
+26,27,Habib Jalib Baloch,14,14-Jul-10,Working Day,After Noon,Quetta,UNKNOWN,UNKNOWN,Balochistan,30.2095,67.0182,Target,Open,Baloch Nationalist,1,0,Jul,10
+27,28, Asim Ali Kurd,9,9-Sep-10,Working Day,After Noon,Quetta,"Raily Housing Society, village of Palaseen
+Near Finance Minnister
+House Quetta",Residence,Balochistan,30.2095,67.0182,Suicide,Open,PPPP,10,6,Sep,10
+28,29,Mir Nooruddin Mengal,13,13-Oct-10,Working Day,After Noon,KALAT,Market,Market,Balochistan,28.775506,65.5246412,Target,Open,BNP,1,0,Oct,10
+29,30, Amjad Ali Khan,6,6-Dec-10,Working Day,After Noon,Mohmand Agency,"Ghalani area
+Agent office ",Government,Fata,32.9746,70.1456,Suicide,Closed,Local Political Leader,50,100,Dec,10
+30,31,Muhammad Aslam Khan Raisani,7,7-Dec-10,Working Day,Evening,Quetta,Railway level crossing sryab pattak,Transport,Balochistan,30.2095,67.0182,Suicide,Open,PPPP,1,12,Dec,10
+32,33,Shahbaz Bhatti,2,2-Mar-11,Working Day,After Noon,Islamabad,Sector i-8,Residence,Capital,33.718,73.0718,Target,Closed,PPPP,1,0,Mar,11
+33,34,Bashir Ahmed Bilour,23,23-Dec-12,Holiday,After Noon,Peshawar,Qissa Khwani Bazar,Market,KPK,34.0043,71.5448,Suicide,Open,ANP,1,17,Dec,12
+34,35,Syed Manzar Imam,17,17-Jan-13,Working Day,Evening,Karachi,while traveling,Road,Sindh,24.9918,66.9911,Target,Open,mqm,1,0,Jan,13
+35,36, Khalid Mumtaz Kundi,18,18-Feb-13,Working Day,Evening,Peshawar,Khyber Agency's Political Agent Office in Peshawar,Office Building,KPK,34.0043,71.5448,Suicide,Closed,Assistant Political Agent,4,5,Feb,13
+36,37,Ghulam Ahmed Bilour,16,16-Apr-13,Working Day,Evening,Peshawar,The bomb blast took place in Yakatoot in Kotwali Abid Khan,Market,KPK,34.0043,71.5448,Suicide,Open,ANP,18,60,Apr,13
+37,38,Dr Mohammad Ibrahim Jatoi ,1,1-May-13,Holiday,Evening,Shikarpur,Southern Shikarpur district of Sindh province-some 400 kilometres (250 miles) northeast of Karachi,Mobile,Sindh,28.0,68.6667,Suicide,Open,National People's Party,1,2,May,13
+38,39,Syed Janan,7,7-May-13,Working Day,Evening,Hangu,Near Market in the town of Doaba,Market,KPK,33.5351,71.0713,Suicide,Open,JUIF,12,40,May,13
+39,40,Zahra Shahid Hussain,18,18-May-13,Working Day,After Noon,Karachi,highly contested partial rerun of the general election,Residence,Sindh,24.9918,66.9911,Target,Closed,PTI,1,0,May,13
+40,41,Farid Khan,3,3-Jun-13,Working Day,Evening,Hangu,Traveling in Hangu,Road,KPK,33.5351,71.0713,Target,Open,Independent,1,2,Jun,13
+41,42,Imran Khan Mohmand,18,18-Jun-13,Working Day,After Noon,Mardan,Funeral,Funeral,KPK,34.1893018,71.9688463,Target,Open,PTI,1,0,Jun,13
+44,45,Muhammad Amjad Farooq,19,19-Oct-15,Working Day,Morning,Taunsa,At Political Party MP's office on College road Taunsa DGK.,Residence,Punjab,30.712665,70.658161,Suicide,Open,PMLN,0,20,Oct,15
+45,46,Soran Singh,22,22-Apr-16,Working Day,After Noon,Buner,near his house,Residence,KPK,34.4319489,72.205692,Target,Closed,Ministor of Miniroties,1,0,Apr,16
+46,47,Political Meeting,15,15-Feb-17,Working Day,Morning,Ghallanai Mohmand Agency,Office of political agent,Road,FATA,34.553808,71.434141,Suicide,Open,Local Political Leader,5,8,Feb,17
+47,48,Sherin malik,7,7-Jul-18,Working Day,Evening,Bannu,Attack on sherin malik's convoy,Road,KPK,32.9861,70.6042,Target,Open,MMA,0,7,Jul,18
+48,49,Haroon Bilour,10,10-Jul-18,Working Day,Night,Peshawar,"Yakatoot neighbourhood, Peshawar",Residence,KPK,33.999533,71.42502,Suicide,Open,ANP,20,65,Jul,18
+49,50,Akram Khan Durrani,13,13-Jul-18,Working Day,Morning,Bannu,Near Haved Police Station,Road,KPK,32.9861,70.6042,Target,Open,JUIF,4,10,Jul,18
+50,51,Siraj Raisani,13,13-Jul-18,Working Day,After Noon,Quetta,Attack on BAP's rally,Road,Balochistan,30.2095,67.0182,Suicide,Open,BAP,149,186,Jul,18

@@ -1,6 +1,8 @@
 Github Branch for Docker Assignment
 
-Run the Docker File in a python environment to get the req clean up in the data
+> Run the Bash file to create a python environment inside docker
+> After the environment is created run the python file with input & output csv file name
+> The created data is stored in "BUNKER" section of your docker volume
 
 --
 

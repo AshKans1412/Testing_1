@@ -1,7 +1,11 @@
-FROM python
+FROM python:3.9.1
+
 WORKDIR /app
-COPY pipeline.py pipeline_new.py
-COPY data.csv source.csv
-RUN pip install pandas
-ENTRYPOINT ["python","pipeline_new.py", "source.csv", "out.csv"]
-#VOLUME ["/Bunker"]
+
+COPY pipeline_v2.py pipeline_v2.py
+
+COPY secrets.env secrets.env
+
+RUN pip install pandas sqlalchemy psycopg2 python-dotenv
+
+ENTRYPOINT [ "python", "pipeline_v2.py" ]

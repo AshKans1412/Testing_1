@@ -1,8 +1,7 @@
-Github Branch for Docker Assignment
+Github Branch for Docker Assignment 2
 
-> Run the Bash file to create a python environment inside docker
-> After the environment is created it runs the python file with input & output csv file name in auto mode
-> The created data is stored in "BUNKER" section of your docker volumes
->
+> Run the Docker Compose File
+> This not only creates the postgresql enviroment but also appends the data respectively
+> The created data is stored in a-2-db-data section of your docker volumes
 --
 

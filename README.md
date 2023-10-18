@@ -22,11 +22,11 @@ cd <repository-directory>   # Replace <repository-directory> with the actual dir
 2. Run the Docker Compose file:
 
 ```bash
-docker-compose up -d
+docker-compose up --build
 ```
 
 This command will bring up the PostgreSQL environment and handle data operations as defined in the Compose file. 
 
 ## Data Persistence
 
-The data generated and manipulated by this setup is stored persistently in the Docker volume named `a-2-db-data`. You can inspect the volume using Docker's volume commands.
+The data generated and manipulated by this setup is stored persistently in the Docker volume named `<Folder Name>-db-data`. You can inspect the volume using Docker's volume commands.

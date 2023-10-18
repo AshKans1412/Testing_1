@@ -14,10 +14,10 @@ To run the Docker Compose setup, follow these steps:
 
 1. Clone the repository:
 
-\```bash
+```bash
 git clone <repository-url>  # Replace <repository-url> with the actual URL of this GitHub repo
 cd <repository-directory>   # Replace <repository-directory> with the actual directory of the repo
-\```
+```
 
 2. Run the Docker Compose file:
 

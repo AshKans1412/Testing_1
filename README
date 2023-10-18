@@ -1,7 +1,0 @@
-Github Branch for Docker Assignment 2
-
-> Run the Docker Compose File
-> This not only creates the postgresql enviroment but also appends the data respectively
-> The created data is stored in a-2-db-data section of your docker volumes
---
-

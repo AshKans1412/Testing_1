@@ -21,9 +21,9 @@ cd <repository-directory>   # Replace <repository-directory> with the actual dir
 
 2. Run the Docker Compose file:
 
-\```bash
+```bash
 docker-compose up -d
-\```
+```
 
 This command will bring up the PostgreSQL environment and handle data operations as defined in the Compose file. 
 

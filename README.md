@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Docker Compose setup for creating a PostgreSQL environment and appending data accordingly. The persisted data from this setup is stored in the `a-2-db-data` section of your Docker volumes.
+This repository contains a Docker Compose setup for creating a PostgreSQL environment and appending data accordingly. The persisted data from this setup is stored in the `<Folder Name>-db-data` section of your Docker volumes.
 
 ## Prerequisites
 

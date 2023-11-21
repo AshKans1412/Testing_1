@@ -1,0 +1,39 @@
+[2023-11-20T08:43:28.385+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [queued]>
+[2023-11-20T08:43:28.388+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [queued]>
+[2023-11-20T08:43:28.388+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-20T08:43:28.394+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): transform_data> on 2023-11-02 00:00:00+00:00
+[2023-11-20T08:43:28.397+0000] {standard_task_runner.py:57} INFO - Started process 148 to run task
+[2023-11-20T08:43:28.400+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'austin_animal_shelter_dag', 'transform_data', 'scheduled__2023-11-02T00:00:00+00:00', '--job-id', '33', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmp4wzkw_9i']
+[2023-11-20T08:43:28.402+0000] {standard_task_runner.py:85} INFO - Job 33: Subtask transform_data
+[2023-11-20T08:43:28.425+0000] {task_command.py:416} INFO - Running <TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [running]> on host c84b35a13244
+[2023-11-20T08:43:28.454+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='austin_animal_shelter_dag' AIRFLOW_CTX_TASK_ID='transform_data' AIRFLOW_CTX_EXECUTION_DATE='2023-11-02T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-11-02T00:00:00+00:00'
+[2023-11-20T08:43:29.398+0000] {python.py:194} INFO - Done. Returned value was: None
+[2023-11-20T08:43:29.408+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=austin_animal_shelter_dag, task_id=transform_data, execution_date=20231102T000000, start_date=20231120T084328, end_date=20231120T084329
+[2023-11-20T08:43:29.503+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-20T08:43:29.544+0000] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2023-11-20T08:46:41.892+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [queued]>
+[2023-11-20T08:46:41.923+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [queued]>
+[2023-11-20T08:46:41.929+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-20T08:46:41.986+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): transform_data> on 2023-11-02 00:00:00+00:00
+[2023-11-20T08:46:42.002+0000] {standard_task_runner.py:57} INFO - Started process 139 to run task
+[2023-11-20T08:46:42.004+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'austin_animal_shelter_dag', 'transform_data', 'scheduled__2023-11-02T00:00:00+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmpqlwxlgbb']
+[2023-11-20T08:46:42.013+0000] {standard_task_runner.py:85} INFO - Job 19: Subtask transform_data
+[2023-11-20T08:46:42.102+0000] {task_command.py:416} INFO - Running <TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [running]> on host d26cbef9e8ab
+[2023-11-20T08:46:42.182+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='austin_animal_shelter_dag' AIRFLOW_CTX_TASK_ID='transform_data' AIRFLOW_CTX_EXECUTION_DATE='2023-11-02T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-11-02T00:00:00+00:00'
+[2023-11-20T08:46:43.946+0000] {python.py:194} INFO - Done. Returned value was: None
+[2023-11-20T08:46:43.965+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=austin_animal_shelter_dag, task_id=transform_data, execution_date=20231102T000000, start_date=20231120T084641, end_date=20231120T084643
+[2023-11-20T08:46:44.045+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-20T08:46:44.071+0000] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2023-11-20T08:50:22.172+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [queued]>
+[2023-11-20T08:50:22.176+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [queued]>
+[2023-11-20T08:50:22.176+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-20T08:50:22.181+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): transform_data> on 2023-11-02 00:00:00+00:00
+[2023-11-20T08:50:22.184+0000] {standard_task_runner.py:57} INFO - Started process 142 to run task
+[2023-11-20T08:50:22.187+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'austin_animal_shelter_dag', 'transform_data', 'scheduled__2023-11-02T00:00:00+00:00', '--job-id', '31', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmpvasdz61t']
+[2023-11-20T08:50:22.189+0000] {standard_task_runner.py:85} INFO - Job 31: Subtask transform_data
+[2023-11-20T08:50:22.215+0000] {task_command.py:416} INFO - Running <TaskInstance: austin_animal_shelter_dag.transform_data scheduled__2023-11-02T00:00:00+00:00 [running]> on host 3ef39241d6e6
+[2023-11-20T08:50:22.241+0000] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='austin_animal_shelter_dag' AIRFLOW_CTX_TASK_ID='transform_data' AIRFLOW_CTX_EXECUTION_DATE='2023-11-02T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-11-02T00:00:00+00:00'
+[2023-11-20T08:50:23.445+0000] {python.py:194} INFO - Done. Returned value was: None
+[2023-11-20T08:50:23.461+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=austin_animal_shelter_dag, task_id=transform_data, execution_date=20231102T000000, start_date=20231120T085022, end_date=20231120T085023
+[2023-11-20T08:50:23.551+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-20T08:50:23.594+0000] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
